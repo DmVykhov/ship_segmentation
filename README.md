@@ -33,6 +33,9 @@ To use this project, follow these steps:
 # Utils
 This script contains some utility functions that encodes, decodes masks, creates generators for images being used during training and predictions and others.
 
+# Dice loss
+File named `Dice_loss.py` contains subclass of keras loss class that implements dice loss being used during training.
+
 # All the files are commented.
 
 
